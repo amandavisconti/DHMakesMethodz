@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# About \#DHmakes Methodz Talks
 Monthlyish 30min informal, low-effort way to help folks discover methods that might interest them & how to dip their toes in.
 
 ![Logo banner showing a sunglasses-wearing skeleton holding a laptop in one hand and a ball of yarn and knitting needle in the other](https://github.com/user-attachments/assets/4a4fb99c-e354-41ba-856a-c472fdf2387f)
