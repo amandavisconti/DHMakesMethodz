@@ -1,6 +1,6 @@
 title: '#DHmakes Methodz Talks'
-baseurl: ""
-url: "https://amandavisconti.github.io/DHMakesMethodz"
+baseurl: /DHMakesMethodz
+url: "https://amandavisconti.github.io"
 
 # Build settings
 theme: minima
