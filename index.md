@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+# About the series
 Monthlyish 30min informal, low-effort way to help folks discover methods that might interest them & how to dip their toes in.
 
 ## Each Zoom event is 30min:
