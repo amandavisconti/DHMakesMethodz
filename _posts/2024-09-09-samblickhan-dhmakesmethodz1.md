@@ -6,4 +6,5 @@ emoji: ✨🧦✨
 ---
 * **Date:** 10/15/2024
 * **Time:** 3-3:30pm ET
-* Zoom event taught by Sam Blickhan on speedweve for mending socks. *Details/registration TBA.*
+* **Registration required**: [register here](https://virginia.zoom.us/meeting/register/tJMkcu-qrzkiGdXJCtlfFVlvR_2qLKZ9TnIQ) before day of event
+* Zoom event taught by Sam Blickhan on speedweve for mending socks.
