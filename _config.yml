@@ -1,8 +1,24 @@
 title: '#DHmakes Methodz Talks'
-baseurl: /DHMakesMethodz
-url: "https://amandavisconti.github.io"
+# baseurl: /DHMakesMethodz
+# url: "https://amandavisconti.github.io"
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+ 
+remote_theme: PQuod/simply-cyan-theme
+  
+darkmode: true # Allows the switch between dark and light mode
+typosize: true # Allows to change the size of the font
+
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - simply-cyan.gemspec
+  - .jekyll-cache
+  - LICENSE.txt
+  - CODE_OF_CONDUCT.md
+  - .DS_store
