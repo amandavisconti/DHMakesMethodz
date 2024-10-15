@@ -27,4 +27,9 @@ Discussing or demoing 1 method (not multiple; not expecting audience to have sup
 ## Why "MethodZ"?
 I'll try taking notes during the talks, to turn into miniZine drafts to credit & be approved by the speaker. Could share these online & in public spaces like my Scholars' Lab zine rack (UVA).
 
+# What is "#DHmakes"?
+#DHmakes is loosely folks in digital humanities/libraries/academia/learning-work who craft/make (including as non-job hobby), open to anyone interested. We use the #DHmakes hashtag to share our in-progress make/craft work, ask questions, cheer each other on, and collaborate (e.g. on conference sessions, craft projects, writing). A couple of us [blogged more about #DHmakes](https://literaturegeek.com/2024/09/26/what-is-dhmakes-hashtag)—what it is, why it's cool, how to get involved.
+
+Check out the [Bluesky #DHmakes feed](https://bsky.app/profile/literaturegeek.bsky.social/feed/aaadokeexl2vo). If you aren't on Bluesky, check out Amanda's [friendly Bluesky quickstart & detailed guides](https://tinyurl.com/DHBluesky) which are updated regularly and especially aimed at folks in academic, GLAM, DH, and related knowledge work. And let [Amanda](https://bsky.app/profile/literaturegeek.bsky.social) know if you join so they can follow you!
+
 *(Keeping the spirit of the DH 2024 #DHmakes mini-conference going! Thanks to Claudia Berger for leading #DHmakes mini-conference facilitation, + to co-conspirators Anne Ladyem McDivitt, Gabby Evergreen, Jacque Wernimont, Jojo Karlin, Quinn Dombrowski! And thanks to participants, too.)*
