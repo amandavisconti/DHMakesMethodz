@@ -10,6 +10,7 @@ layout: base
 
 <h1 style="border-bottom: 1px solid purple;">Scheduled #DHMakes Methodz Talks</h1>
 
+<!--
 {% for post in site.posts %}
 <article class="post">
 		<h3>{{ post.emoji }}<strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></h3>
@@ -18,6 +19,53 @@ layout: base
 		</div>		
 </article>
 {% endfor %}
+-->
+
+<h2>Upcoming events</h2>
+{% assign events = site.posts | sort: 'start_date' %}
+{% assign today = site.time | date: '%Y%m%d' | plus: 0 %}
+{% for event in events %}
+	{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+	{% if eventdate >= today %}
+		<section>
+			<h3>{{ event.emoji }}<strong><a href="{{ event.url | relative_url }}">{{ event.title }}</a></strong></h3>
+			<div class="content">
+				{{ event.content }}
+			</div>
+		</section>
+	{% endif %}
+{% endfor %} <!-- end event -->
+
+<h2>Recent events</h2>
+{% for event in events %}
+	{% assign eventdate = event.start_date | date: '%Y%m%d' | plus:0 %}
+	{% if eventdate >= today %}
+		{% continue %}
+	{% endif %}
+	<section>
+		<h3>{{ event.emoji }}<strong><a href="{{ event.url | relative_url }}">{{ event.title }}</a></strong></h3>
+		<div class="content">
+			{{ event.content }}
+		</div>
+	</section>
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
   {{ content }}

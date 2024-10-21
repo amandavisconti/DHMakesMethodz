@@ -2,6 +2,7 @@
 layout: post
 title: "Sam Blickhan on speedweve for mending socks"
 date: 2024-09-09
+start_date: 2024-10-15
 emoji: ✨🧦✨
 ---
 * ~~**Date:** 10/15/2024~~

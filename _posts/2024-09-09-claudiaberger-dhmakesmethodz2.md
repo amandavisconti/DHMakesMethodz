@@ -2,6 +2,7 @@
 layout: post
 title: "Claudia Berger on zine-making"
 date: 2024-09-09
+start_date: 2024-10-31
 emoji: ✨📚✨
 ---
 * **Date:** 10/31/2024

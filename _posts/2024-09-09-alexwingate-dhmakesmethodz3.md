@@ -2,6 +2,7 @@
 layout: post
 title: "Alex Wingate on English paper piecing"
 date: 2024-09-09
+start_date: 2024-11-14
 emoji: ✨🪡✨
 ---
 
