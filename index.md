@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About the series
+# About /#DHMakes Methodz Talks
 Monthlyish 30min informal, low-effort way to help folks discover methods that might interest them & how to dip their toes in. Email Visconti [at] Virginia.edu if you'd like to teach and/or help organize/moderate a talk, and I can add you to a GDoc to help match up prospective teachers and organizers-moderators (I'm at my capacity limit for organizing with these first 3 talks, but it would rock if others want to make more happen!)
 
 ## Each Zoom event is 30min:
