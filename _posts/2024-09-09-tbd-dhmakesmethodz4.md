@@ -2,7 +2,7 @@
 layout: post
 title: "TBA on sashiko (visible mending)"
 date: 2024-09-09
-start_date: TBA
+start_date: 1900-01-01
 emoji: ✨👖✨
 ---
 
