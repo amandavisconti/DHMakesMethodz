@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "TBA on hand spinning"
-date: 2024-09-09
+title: "Alisa K. Beer on hand spinning"
+date: 2025-01-16
 start_date: 3000-01-01
 emoji: ✨🧶✨
 ---
 
-* **Date**: TBA, in Fall 2024 or Spring 2025
-* **Time**: TBA
-* Registration info will be added here.
-* Zoom event taught by Alisa K. Beer on hand spinning.
+* **Date**: January 16, 2025
+* **Time**: 2:30pm-3pm Eastern
+* **Registration required:** [register here](https://virginia.zoom.us/meeting/register/tJAlc-2uqD0pH9Pm1dTYed6a75bOuAR2zJQW) before day of talk
+* Zoom event taught by Alisa K. Beer on hand spinning! Thanks to Katina Rogers for facilitating.
