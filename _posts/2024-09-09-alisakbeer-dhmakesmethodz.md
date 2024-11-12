@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Alisa K. Beer on hand spinning"
-date: 2025-01-16
-start_date: 3000-01-01
+date: 2024-09-09
+start_date: 2025-01-16
 emoji: ✨🧶✨
 ---
 
