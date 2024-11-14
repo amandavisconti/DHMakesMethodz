@@ -8,5 +8,5 @@ emoji: ✨🪡✨
 
 * **Date**: 11/14/2024
 * **Time**: 2:30-3pm ET
-* **Registration required:** [register here](https://virginia.zoom.us/meeting/register/tJwtdO6gpzkrGNAy_BpSoFeLlq-DkmuqN6ap) before day of talk
+* *Zoom event already happened!* Zine capturing the event, cited links etc. will be posted here and on social media using #DHmakes when it's ready (probably a couple weeks after the talk).
 * Zoom event taught by Alex Wingate on English paper piecing.
