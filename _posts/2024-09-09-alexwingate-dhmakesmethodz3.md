@@ -8,5 +8,5 @@ emoji: ✨🪡✨
 
 * **Date**: 11/14/2024
 * **Time**: 2:30-3pm ET
-* *Zoom event already happened!* Zine capturing the event, cited links etc. will be posted here and on social media using #DHmakes when it's ready (probably a couple weeks after the talk).
+* *Zoom event already happened!* [Slides!](https://github.com/amandavisconti/DHMakesMethodz/blob/main/assets/Wingate%20DHMakes%20Methodz%20Talk%20November%202024.pptx). Zine capturing the event will be posted here and on social media using #DHmakes when it's ready (probably a couple weeks after the talk).
 * Zoom event taught by Alex Wingate on English paper piecing.
