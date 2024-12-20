@@ -9,4 +9,4 @@ emoji: ✨👖✨
 * **Date**: TBA, in Spring 2025
 * **Time**: TBA
 * Registration info will be added here.
-* Zoom event taught by (TBA) on sashiko (a visible mending technique). If you've any experience (including beginner) and would be willing to co-teach or even just briefly show your work, please let Amanda know (visconti@virginia.edu; doesn't need to be fancy! seeing  what beginners can achieve is useful too).
+* Zoom event taught by (TBA) on sashiko (a visible mending technique). If sashiko is part of your personal cultural tradition, you've any level experience (including beginner), and would be willing to co-teach or even just briefly show your work, please let Amanda know (visconti@virginia.edu; doesn't need to be fancy! seeing  what beginners can achieve is useful too).
