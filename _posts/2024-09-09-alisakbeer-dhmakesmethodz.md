@@ -10,4 +10,4 @@ emoji: ✨🧶✨
 * **Time**: 2:30pm-3pm Eastern
 * *Zoom event already happened!* 
 * Zoom event taught by Alisa K. Beer on hand spinning! Thanks to Katina Rogers for facilitating.
-* Zine capturing the event will be posted here and on social media using #DHmakes when it's ready
+* ["Spindle Spinning: Resources & Recommendations" trifold brochure by Alisa K Beer](/assets/SpindleSpinning-AlisaKBeer.pdf) is a great set of resources etc. she discussed in her talk! A zine capturing the event will also be posted here and on social media using #DHmakes, when it's ready.
