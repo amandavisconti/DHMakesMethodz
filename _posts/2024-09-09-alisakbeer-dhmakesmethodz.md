@@ -8,5 +8,6 @@ emoji: ✨🧶✨
 
 * **Date**: January 16, 2025
 * **Time**: 2:30pm-3pm Eastern
-* **Registration required:** [register here](https://virginia.zoom.us/meeting/register/tJAlc-2uqD0pH9Pm1dTYed6a75bOuAR2zJQW) before day of talk
+* *Zoom event already happened!* 
 * Zoom event taught by Alisa K. Beer on hand spinning! Thanks to Katina Rogers for facilitating.
+* Zine capturing the event will be posted here and on social media using #DHmakes when it's ready
