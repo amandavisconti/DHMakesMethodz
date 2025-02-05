@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Rebinding"
+title: "Book Rebinding?"
 date: 2024-09-09
 start_date: 2099-01-01
 emoji: ✨📒✨
