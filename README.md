@@ -1,7 +1,7 @@
 # \#DHmakes Methodz Talks
 Monthlyish 30min informal, low-effort way to help folks discover methods that might interest them & how to dip their toes in.
 
-![image](https://github.com/user-attachments/assets/4a4fb99c-e354-41ba-856a-c472fdf2387f)
+![image](https://github.com/user-attachments/assets/methodz.png)
 
 ## Each Zoom event is 30min:
 1. One informal 10-20min talk:
